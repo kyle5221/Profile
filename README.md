@@ -10,4 +10,4 @@ DOK RAE KIM
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?kyle5221=kyle5221)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kyle5221)](https://github.com/anuraghazra/github-readme-stats)
