@@ -1,4 +1,5 @@
-# Welcome to my github!
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Hyein!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+
 
 Pursing career as Data Analyst & Business Analyst
 
@@ -8,6 +9,7 @@ Pursing career as Data Analyst & Business Analyst
 
 
 #Contact
+
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kyle5221.github.io/)](https://kyle5221.github.io/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kyle5221@gmail.com)](mailto:kyle5221@gmail.com)
 
 
