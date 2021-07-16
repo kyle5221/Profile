@@ -13,7 +13,9 @@ Pursing career as Data Analyst & Business Analyst
 
 # Contact
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kyle5221.github.io/)](https://kyle5221.github.io/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kyle5221@gmail.com)](mailto:kyle5221@gmail.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kyle5221.github.io/)](https://kyle5221.github.io/)<a href="https://kyle5221@gmail.com">
+    <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://kyle5221@gmail.com"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 
 
