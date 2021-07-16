@@ -1,14 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=Welcome%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=00AEFF&height=200&section=header&text=Welcome%20&fontSize=100)
 
 
+<h3 align="center"> Hi! </h3>
 
 
-26살 데이터 분석가
-Pursing career as Data Analyst & Business Analyst
+<p align="center"> 
+I am Dok Rae KIM <br>
+</p>
+<p align="center"> Currently pursing career as Data Analyst & Business Analyst
+</p>
+<p align="center"> Seeking Better Ways for Analysis
 
-# Tools 
+# Tech Stack
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>  <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=Google-Colab&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/R Studio-276DC3?style=flat-square&logo=R&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
+<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>  <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=Google-Colab&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/-JAVA-orange"/> <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>
 
 
 # Contact
@@ -18,5 +23,7 @@ Pursing career as Data Analyst & Business Analyst
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 
-
+# Summary
+</p>
+    
 [![DokRae's github stats](https://github-readme-stats.vercel.app/api?username=kyle5221)](https://github.com/anuraghazra/github-readme-stats)
