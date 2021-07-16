@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=00AEFF&height=200&section=header&text=&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=80)
 
 
-<h3 align="center"> Hi! Welcome to my Github </h3>
+Hi! Welcome to my Github </h3>
 
 👉 I am Dok Rae KIM <br>
 </p>
