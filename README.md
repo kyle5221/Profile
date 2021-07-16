@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=00AEFF&height=200&section=header&text=&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=80)
 
+[![DokRae's github stats](https://github-readme-stats.vercel.app/api?username=kyle5221)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Hi! Welcome to my Github </h3>
 
@@ -20,8 +22,5 @@ Seeking Better Ways for Analysis
 ## :computer: Tech Stack
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>  <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=Google-Colab&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/-JAVA-orange"/> <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>
-
-## Summary
-</p>
     
-[![DokRae's github stats](https://github-readme-stats.vercel.app/api?username=kyle5221)](https://github.com/anuraghazra/github-readme-stats)
+
