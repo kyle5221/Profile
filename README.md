@@ -1,29 +1,27 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=00AEFF&height=200&section=header&text=Welcome%20&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=00AEFF&height=200&section=header&text=&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=80)
 
 
-<h3 align="center"> Hi! </h3>
+<h3 align="center"> Hi! Welcome to my Github </h3>
 
-
-<p align="center"> 
-I am Dok Rae KIM <br>
+👉 I am Dok Rae KIM <br>
 </p>
-<p align="center"> Currently pursing career as Data Analyst & Business Analyst
+Currently pursing career as Data Analyst & Business Analyst
 </p>
-<p align="center"> Seeking Better Ways for Analysis
-
-# Tech Stack
-
-<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>  <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=Google-Colab&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/-JAVA-orange"/> <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>
-
-
-# Contact
+Seeking Better Ways for Analysis
+</p>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kyle5221.github.io/)](https://kyle5221.github.io/)<a href="https://kyle5221@gmail.com">
     <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://kyle5221@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    
 
+## :black_nib: Career Plan 
+    
+## :computer: Tech Stack
 
-# Summary
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>  <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=Google-Colab&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/-JAVA-orange"/> <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>
+
+## Summary
 </p>
     
 [![DokRae's github stats](https://github-readme-stats.vercel.app/api?username=kyle5221)](https://github.com/anuraghazra/github-readme-stats)
