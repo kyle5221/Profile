@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=00AEFF&height=200&section=header&text=&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=80)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyle5221%2Fkyle5221%2Fblob%2Fmain%2FREADME.md&count_bg=%230041FF&title_bg=%2363DAFD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)md)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyle5221%2Fkyle5221%2Fblob%2Fmain%2FREADME.md&count_bg=%230041FF&title_bg=%2363DAFD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 Hi! Welcome to my Github </h3> 
 
